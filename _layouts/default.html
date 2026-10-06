@@ -1,0 +1,111 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}{{ site.title }}</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <style>
+    :root {
+      --bg: #fdfcf8;
+      --fg: #1c1c1c;
+      --muted: #555;
+      --accent: #0b5cad;
+      --accent-fg: #fff;
+      --rule: #ddd8cc;
+      --note-bg: #fff4d6;
+      --note-border: #c98a00;
+    }
+    @media (prefers-color-scheme: dark) {
+      :root {
+        --bg: #16181c;
+        --fg: #ececec;
+        --muted: #b4b4b4;
+        --accent: #7cb8ff;
+        --accent-fg: #0b1220;
+        --rule: #33363d;
+        --note-bg: #2b2412;
+        --note-border: #e0a82e;
+      }
+    }
+    * { box-sizing: border-box; }
+    body {
+      margin: 0;
+      background: var(--bg);
+      color: var(--fg);
+      font: 1.125rem/1.65 system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+    }
+    .skip {
+      position: absolute;
+      left: -9999px;
+    }
+    .skip:focus {
+      left: 1rem;
+      top: 1rem;
+      padding: .5rem 1rem;
+      background: var(--accent);
+      color: var(--accent-fg);
+      z-index: 10;
+    }
+    header, main, footer {
+      max-width: 44rem;
+      margin: 0 auto;
+      padding: 0 1rem;
+    }
+    header { padding-top: 3rem; }
+    h1 { font-size: 2.5rem; line-height: 1.1; margin: 0 0 .5rem; }
+    h2 {
+      font-size: 1.6rem;
+      margin: 3rem 0 1rem;
+      padding-top: 1.5rem;
+      border-top: 1px solid var(--rule);
+    }
+    h3 { font-size: 1.25rem; margin: 2rem 0 .5rem; }
+    .tagline { color: var(--muted); margin: 0 0 1.5rem; }
+    a { color: var(--accent); text-underline-offset: .15em; }
+    a:focus-visible, .button:focus-visible {
+      outline: 3px solid var(--accent);
+      outline-offset: 3px;
+    }
+    .button {
+      display: inline-block;
+      padding: .6rem 1.2rem;
+      border-radius: .4rem;
+      background: var(--accent);
+      color: var(--accent-fg);
+      font-weight: 600;
+      text-decoration: none;
+    }
+    .note {
+      background: var(--note-bg);
+      border-left: 4px solid var(--note-border);
+      padding: .75rem 1rem;
+      font-weight: 600;
+    }
+    li { margin-bottom: .4rem; }
+    footer {
+      margin-top: 4rem;
+      padding-bottom: 3rem;
+      color: var(--muted);
+      font-size: 1rem;
+    }
+  </style>
+</head>
+<body>
+  <a class="skip" href="#main">Skip to content</a>
+
+  <header>
+    <h1>{{ site.title }}</h1>
+    <p class="tagline">{{ site.tagline }}</p>
+    <p><a class="button" href="{{ site.kofi }}">Support Rubber Magpie on Ko-fi</a></p>
+  </header>
+
+  <main id="main">
+{{ content }}
+  </main>
+
+  <footer>
+    <p>{{ site.title }} · <a href="{{ site.kofi }}">Ko-fi</a> · <a href="{{ site.github }}">GitHub</a></p>
+  </footer>
+</body>
+</html>

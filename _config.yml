@@ -1,0 +1,14 @@
+title: Rubber Magpie
+description: "Rubber Magpie: rummaging through the world of games, finding the shiny ones, and making them accessible to blind gamers."
+tagline: Accessibility mods for blind gamers, by Frost, Cricket and Floff.
+kofi: https://ko-fi.com/rubbermagpie
+github: https://github.com/Rubber-Magpie
+
+exclude:
+  - README.md
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
