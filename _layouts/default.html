@@ -76,6 +76,7 @@
       font-weight: 600;
       text-decoration: none;
     }
+    .guide-link { margin-left: 1rem; }
     .note {
       background: var(--note-bg);
       border-left: 4px solid var(--note-border);
@@ -97,7 +98,7 @@
   <header>
     <h1>{{ site.title }}</h1>
     <p class="tagline">{{ site.tagline }}</p>
-    <p><a class="button" href="{{ site.kofi }}">Support Rubber Magpie on Ko-fi</a></p>
+    <p><a class="button" href="{{ site.kofi }}">Support Rubber Magpie on Ko-fi</a> <a class="guide-link" href="{{ '/ko-fi-guide/' | relative_url }}">How to download our mods from Ko-fi</a></p>
   </header>
 
   <main id="main">
