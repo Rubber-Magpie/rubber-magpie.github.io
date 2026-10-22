@@ -3,6 +3,16 @@
 
 Hello! We’re Rubber Magpie, and we’re here to rummage through the world of games, find the shiny ones, and do our best to make them accessible to blind gamers!
 
+## Our Current Projects
+
+### Early Access (US$5.00)
+
+- [Wyrmy Words](https://ko-fi.com/s/94d1ce644e) for [Flamecraft](https://store.steampowered.com/app/3201730/Flamecraft/), to be released for free on 
+
+### Free Public Access
+
+- [Access Delicious](https://ko-fi.com/s/2fe74e40f5) for [Cook, Serve, Delicious! 3?!](https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/)
+
 ## Before we get much further, let’s talk about LLMs
 
 We can have a nuanced discussion about the ethics of LLM training and inference any day of the week—and we absolutely will if you want us to. It’s important! But for the purposes of this space, LLMs have been an invaluable tool and a gigantic step forward in the quest to make more videogames accessible to blind players.
