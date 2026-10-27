@@ -13,6 +13,21 @@ Hello! We’re Rubber Magpie, and we’re here to rummage through the world of g
 
 - [Access Delicious](https://ko-fi.com/s/2fe74e40f5) for [Cook, Serve, Delicious! 3?!](https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/)
 
+### Upcoming
+
+We will only advertise projects we are very reasonably confident will be released. This will always mean that they are already in a playable state to an extent that makes them enjoyable and understandable, and we're in the process of polishing the experience and playtesting the game ourselves.
+
+- [Combolands](https://store.steampowered.com/app/4075620/Combolands_Roguelike_Citybuilder/)
+- [Cook, Serve, Delicious!](https://store.steampowered.com/app/247020/Cook_Serve_Delicious/)
+- [Cook Serve Forever](https://store.steampowered.com/app/1928090/Cook_Serve_Forever/)
+[ High Times](https://store.steampowered.com/app/2251220/High_Times/)
+- [Is This Seat Taken?](https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/)
+- [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/)
+- [Kinny and the Cosmic Cauldron](https://store.steampowered.com/app/3330210/Kinny_and_the_Cosmic_Cauldron/)
+- [Potionomics](https://store.steampowered.com/app/1874490/Potionomics/)
+- [Trash Goblin](https://store.steampowered.com/app/2407830/Trash_Goblin/)
+- [Wingspan](https://store.steampowered.com/app/1054490/Wingspan/)
+
 ## Before we get much further, let’s talk about LLMs
 
 We can have a nuanced discussion about the ethics of LLM training and inference any day of the week—and we absolutely will if you want us to. It’s important! But for the purposes of this space, LLMs have been an invaluable tool and a gigantic step forward in the quest to make more videogames accessible to blind players.
