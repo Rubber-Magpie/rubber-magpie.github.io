@@ -21,7 +21,7 @@ We will only advertise projects we are very reasonably confident will be release
 - [Combolands](https://store.steampowered.com/app/4075620/Combolands_Roguelike_Citybuilder/)
 - [Cook, Serve, Delicious!](https://store.steampowered.com/app/247020/Cook_Serve_Delicious/)
 - [Cook Serve Forever](https://store.steampowered.com/app/1928090/Cook_Serve_Forever/)
-[ High Times](https://store.steampowered.com/app/2251220/High_Times/)
+- [High Times](https://store.steampowered.com/app/2251220/High_Times/)
 - [Is This Seat Taken?](https://store.steampowered.com/app/3035120/Is_This_Seat_Taken/)
 - [Kingdom Two Crowns](https://store.steampowered.com/app/701160/Kingdom_Two_Crowns/)
 - [Kinny and the Cosmic Cauldron](https://store.steampowered.com/app/3330210/Kinny_and_the_Cosmic_Cauldron/)
