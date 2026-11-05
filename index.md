@@ -7,12 +7,12 @@ Hello! We’re Rubber Magpie, and we’re here to rummage through the world of g
 
 ### Early Access (US$5.00)
 
-- [Wyrmy Words](https://ko-fi.com/s/94d1ce644e) for [Flamecraft](https://store.steampowered.com/app/3201730/Flamecraft/), to be released for free on Saturday, October 31st 2026
 - [Access Delicious 2](https://ko-fi.com/s/caf789d009) for [Cook, Serve, Delicious! 2!](https://store.steampowered.com/app/386620/Cook_Serve_Delicious_2/), to be released for free on Monday, November 9th 2026
 
 ### Free Public Access
 
 - [Access Delicious](https://ko-fi.com/s/2fe74e40f5) for [Cook, Serve, Delicious! 3?!](https://store.steampowered.com/app/1000030/Cook_Serve_Delicious_3/)
+- [Wyrmy Words](https://ko-fi.com/s/94d1ce644e) for [Flamecraft](https://store.steampowered.com/app/3201730/Flamecraft/)
 
 ### Upcoming
 
